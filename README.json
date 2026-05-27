@@ -58,8 +58,8 @@
           "title": "airCasting",
           "repo_info": {
             "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-22T05:32:21Z",
+            "language": "Ruby",
+            "last_commit": "2026-05-26T10:45:27Z",
             "owner": "HabitatMap",
             "repo": "AirCasting",
             "stars": 64
@@ -72,7 +72,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-25T06:12:26Z",
+            "last_commit": "2026-05-26T14:20:52Z",
             "owner": "mysociety",
             "repo": "alaveteli",
             "stars": 412
@@ -85,7 +85,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-18T21:22:43Z",
+            "last_commit": "2026-05-26T20:45:17Z",
             "owner": "sudara",
             "repo": "alonetone",
             "stars": 379
@@ -163,7 +163,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-26T01:41:53Z",
+            "last_commit": "2026-05-27T05:00:07Z",
             "owner": "bikeindex",
             "repo": "bike_index",
             "stars": 304
@@ -176,10 +176,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-26T02:14:31Z",
+            "last_commit": "2026-05-26T12:13:34Z",
             "owner": "blackcandy-org",
             "repo": "blackcandy",
-            "stars": 4203
+            "stars": 4205
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-04-30T14:52:10Z",
             "owner": "instructure",
             "repo": "canvas-lms",
-            "stars": 6657
+            "stars": 6658
           }
         },
         {
@@ -254,10 +254,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-26T05:15:54Z",
+            "last_commit": "2026-05-26T21:11:29Z",
             "owner": "chatwoot",
             "repo": "chatwoot",
-            "stars": 29733
+            "stars": 29764
           }
         },
         {
@@ -332,7 +332,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-12T15:48:22Z",
+            "last_commit": "2026-05-26T16:14:31Z",
             "owner": "codetriage",
             "repo": "CodeTriage",
             "stars": 1460
@@ -371,7 +371,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-26T00:16:47Z",
+            "last_commit": "2026-05-26T15:12:38Z",
             "owner": "Coursemology",
             "repo": "coursemology2",
             "stars": 157
@@ -444,7 +444,7 @@
             "last_commit": "2026-05-24T11:27:26Z",
             "owner": "danbooru",
             "repo": "danbooru",
-            "stars": 2725
+            "stars": 2726
           }
         },
         {
@@ -493,10 +493,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-26T05:52:39Z",
+            "last_commit": "2026-05-27T06:04:06Z",
             "owner": "discourse",
             "repo": "discourse",
-            "stars": 47098
+            "stars": 47104
           }
         },
         {
@@ -509,7 +509,7 @@
             "last_commit": "2026-05-25T10:05:37Z",
             "owner": "docusealco",
             "repo": "docuseal",
-            "stars": 16960
+            "stars": 16987
           }
         },
         {
@@ -522,7 +522,7 @@
             "last_commit": "2026-05-20T18:32:58Z",
             "owner": "ekylibre",
             "repo": "ekylibre",
-            "stars": 476
+            "stars": 477
           }
         },
         {
@@ -597,10 +597,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-16T00:20:51Z",
+            "last_commit": "2026-05-26T11:29:16Z",
             "owner": "feedbin",
             "repo": "feedbin",
-            "stars": 3751
+            "stars": 3750
           }
         },
         {
@@ -623,10 +623,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-25T13:48:24Z",
+            "last_commit": "2026-05-26T19:29:24Z",
             "owner": "forem",
             "repo": "forem",
-            "stars": 22709
+            "stars": 22710
           }
         },
         {
@@ -649,7 +649,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-25T20:42:05Z",
+            "last_commit": "2026-05-26T20:21:52Z",
             "owner": "benwbrum",
             "repo": "fromthepage",
             "stars": 181
@@ -662,10 +662,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-26T03:07:55Z",
+            "last_commit": "2026-05-27T03:08:17Z",
             "owner": "gitlabhq",
             "repo": "gitlabhq",
-            "stars": 24338
+            "stars": 24339
           }
         },
         {
@@ -766,7 +766,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-22T15:45:53Z",
+            "last_commit": "2026-05-26T15:44:17Z",
             "owner": "hitobito",
             "repo": "hitobito",
             "stars": 468
@@ -805,10 +805,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-25T02:56:14Z",
+            "last_commit": "2026-05-26T15:44:11Z",
             "owner": "inaturalist",
             "repo": "inaturalist",
-            "stars": 825
+            "stars": 826
           }
         },
         {
@@ -909,7 +909,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-26T05:41:02Z",
+            "last_commit": "2026-05-27T04:33:27Z",
             "owner": "loomio",
             "repo": "loomio",
             "stars": 2546
@@ -922,10 +922,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-26T05:42:21Z",
+            "last_commit": "2026-05-27T05:45:49Z",
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 49965
+            "stars": 49969
           }
         },
         {
@@ -938,7 +938,7 @@
             "last_commit": "2025-07-24T22:20:44Z",
             "owner": "maybe-finance",
             "repo": "maybe",
-            "stars": 54131
+            "stars": 54135
           }
         },
         {
@@ -948,10 +948,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-26T00:53:32Z",
+            "last_commit": "2026-05-26T11:22:29Z",
             "owner": "Multiwoven",
             "repo": "multiwoven",
-            "stars": 1656
+            "stars": 1658
           }
         },
         {
@@ -1026,10 +1026,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-26T05:11:27Z",
+            "last_commit": "2026-05-27T05:59:37Z",
             "owner": "opf",
             "repo": "openproject",
-            "stars": 15155
+            "stars": 15166
           }
         },
         {
@@ -1055,7 +1055,7 @@
             "last_commit": "2026-05-25T17:42:40Z",
             "owner": "openstreetmap",
             "repo": "openstreetmap-website",
-            "stars": 2746
+            "stars": 2747
           }
         },
         {
@@ -1068,7 +1068,7 @@
             "last_commit": "2026-05-23T08:51:37Z",
             "owner": "otwcode",
             "repo": "otwarchive",
-            "stars": 2073
+            "stars": 2075
           }
         },
         {
@@ -1078,10 +1078,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-25T23:29:21Z",
+            "last_commit": "2026-05-27T05:47:16Z",
             "owner": "pglombardo",
             "repo": "PasswordPusher",
-            "stars": 3012
+            "stars": 3016
           }
         },
         {
@@ -1146,7 +1146,7 @@
             "last_commit": "2026-05-18T19:09:11Z",
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16553
+            "stars": 16562
           }
         },
         {
@@ -1265,10 +1265,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-26T04:24:27Z",
+            "last_commit": "2026-05-26T23:32:31Z",
             "owner": "rubygems",
             "repo": "rubygems.org",
-            "stars": 2429
+            "stars": 2430
           }
         },
         {
@@ -1291,7 +1291,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-22T20:49:25Z",
+            "last_commit": "2026-05-26T22:14:54Z",
             "owner": "psu-libraries",
             "repo": "scholarsphere",
             "stars": 13
@@ -1343,7 +1343,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-26T05:01:06Z",
+            "last_commit": "2026-05-27T02:46:56Z",
             "owner": "somleng",
             "repo": "somleng",
             "stars": 94
@@ -1411,7 +1411,7 @@
             "last_commit": "2026-05-25T12:53:57Z",
             "owner": "TheOdinProject",
             "repo": "theodinproject",
-            "stars": 4420
+            "stars": 4423
           }
         },
         {
@@ -1478,7 +1478,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-05-25T09:55:47Z",
+            "last_commit": "2026-05-26T18:22:41Z",
             "owner": "alphagov",
             "repo": "whitehall",
             "stars": 1001
@@ -1830,7 +1830,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-26T05:56:04.553Z",
+    "last_updated": "2026-05-27T06:06:24.239Z",
     "original_repository": "gramantin/awesome-rails",
     "source_repository": "v1nvn/enhansome-rails",
     "source_repository_description": null,
